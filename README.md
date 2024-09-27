@@ -34,3 +34,6 @@ What did planning involve? It involved slipping into a different headspace and s
 
 
 The world is partitioned into a lattice. Connections between lattices form larger hexagonal regions. The hexagons form a packing (? I think). Influence propagates within a region, and if it exceeds a certain threshold it propagates along the region connections back to home base. The numbers along the connections don't represent path costs, those are calculated differently. Rather, they represent available resource allocation. I refuse to elaborate any further. You will see what happens in the game. 
+
+ON ANOTHER NOTE. I'm coming up on 6 months of being smoke-free. Its a lie, its not like I had 0 cigarettes in this span of time. BUT, of the handful of times I had one I didn't feel the need to start again. It was like a one-and-done type of thing. I think I'm over it. Smoking is BORING. There I said it. 
+BUT now its getting cold again....maybe I'll smoke for the month of December. 
