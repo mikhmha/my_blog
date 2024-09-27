@@ -21,3 +21,16 @@ Its almost 1 year since I started working on my MMO game project. I didn't think
 wOWOW I am getting back into the mood. I was so confused last week, so lost, because I couldn't make sense of this dynamic world spawning system I'm trying to implement. The problem is 2 fold, it involves for one, integrating a new spawn queue sub-system into the existing architecture and figuring out how it should coordinate with the AI director + World Simulation to dynamically spawn new units into the world - what pre-conditions are needed, what is the polling frequency?, etc. And 2, figuring out how to represent the knowledge the AI director needs to make strategic decisions. When should it spawn new squads of enemies? How does it know where to send squads? How does it know which areas are contested or occupied? This part was really bugging me. I knew part of the answer was in Valve's Left 4 Dead AI Director implementation. And now after some further reasearch (watching GDC talks), I found exactly what I was looking for. The answer is: Influence Maps. Its the missing link! And Influence Maps let you do SO MUCH if properly implemented. This is exactly what I wanted. 
 
 It makes a lot of sense. The AI director sees the world in terms of abstract strategic objectives, represented by nodes in a list. And these nodes also contain data used to signal things like priority, visibility, and adjacency to the AI director. And we can enforce some cost function to calculate the cost of traversing the nodes so that the "best choice" is made, w.r.t the current world conditions. Graphs and A*. Graphs and A*. Graphs and A*. Repeat it 500 times and you will acheive enlightenment. 
+
+
+# 27/09/2024
+
+OK I'm finally done planning. Now its time to start programming again. Its like that saying, spend time sharpening the axe so you can cut the tree down in one strike. yeah, I sharpen the axe while also being anxious the entire time about not cutting the tree. but why? the tree WILL be cut down. don't worry about it. keep sharpening. But what if you sharpen forever ..never cutting down the tree? what am i even saying.
+
+What did planning involve? It involved slipping into a different headspace and staring at grids for several hours. And then going on long walks as a way to procrastinate. Just look at grids bro. Just think about Euclidean spaces bro. Stare into the abyss long enough and it will stare back. 
+
+
+![zone_concept_v5](https://github.com/user-attachments/assets/056a2647-cce6-4d66-9f86-4e4bc6e38663)
+
+
+The world is partitioned into a lattice. Connections between lattices form larger hexagonal regions. The hexagons form a packing (? I think). Influence propagates within a region, and if it exceeds a certain threshold it propagates along the region connections back to home base. The numbers along the connections don't represent path costs, those are calculated differently. Rather, they represent available resource allocation. I refuse to elaborate any further. You will see what happens in the game. 
