@@ -49,4 +49,13 @@ NOW its time for the fun part - implementing the AI commander descision loop. Th
 This sort of reminds me of my high-frequency trading system. It was the same idea. You look at the current conditions over some time horizon, if things look good you execute a strategy to BUY or SELL assets. Then you measure the result of your active strategy. If things are going bad you EXIT quickly and start the process of formulating a new strategy, otherwise you continue executing the existing strategy. 
 
 
+# 02/10/2024
+
+Moving quickly again. I've been writing new code and refactoring old stuff. Going back and refactoring code is such a cognitive load. But the effort always ends up being much easier than the expectation. Why? Because Elixir is that GOOD. The refactoring consisted of wrapping up the old interfaces to spawn AI into higher order abstractions called by the AI commander. Also the spatial partioning scheme for the strategy map has changed. The hex idea I was trying is cool, but I found a better way to do things. Actually the hex idea was stupid, but atleast it got me to start drawing stuff. Just keep drawing stuff! It will give you the solution. Yeah I think the next few days will be fun - it will be 50% coding, 50% playing the game. Heres my metric - if I find myself playing the game for longer than 5 minutes I'll know what I have is good enough for a first draft. I need to set a limit or I'll spend an infinite amount of time tweaking the commander just to see what will happen. Its like doing map editing for this game. I get sucked in, hours go by, entire days even, and important tasks become neglected. 
+
+I think this period of blogging is coming to an end. Its served its purpose. Writing is boring again. Coding is fun. 
+
+
+
+
 
