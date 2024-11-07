@@ -47,3 +47,8 @@ I really hope I can get some money for the game. Just enough to keep me going fo
 
 What is plan B? There is no plan B. Can I hold down a job? I can, I flip the switch that turns me "normal" and I blend in...but eventually it fails. its not being told what to do..its working for someone I don't respect. if you think i'm a joke then i think you're a joke. bozo on bozo violence. Where is the Shogun? I want to serve the Shogun. 
 
+# 07/11/2024
+
+I am so depressed. WHY??? I feel like I'm living in hell. Its not fun being like this. Not at all. I feel like a fake-human, a replicant, a freak. I want to go somewhere far away......
+Its possible to cure myself...I do it all the time. Shift focus towards working on the game, go back to doing menial chores throughout the day. But its all cope, nothing changes. 
+I won't give up or give into pessimism. But also I resign myself to fading away.
