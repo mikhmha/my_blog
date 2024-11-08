@@ -52,3 +52,22 @@ What is plan B? There is no plan B. Can I hold down a job? I can, I flip the swi
 I am so depressed. WHY??? I feel like I'm living in hell. Its not fun being like this. Not at all. I feel like a fake-human, a replicant, a freak. I want to go somewhere far away......
 Its possible to cure myself...I do it all the time. Shift focus towards working on the game, go back to doing menial chores throughout the day. But its all cope, nothing changes. 
 I won't give up or give into pessimism. But also I resign myself to fading away.
+
+# 08/11/2024
+
+I feel much better today. Much more in control. I think the sadness is passing. Before it used to be bad...a death spiral into negative emotions that would last weeks. But today I feel good. I have things to feel proud about. I've made a lot of progress in my life within the last few years. 
+
+Somedays I really resent the feeling of alienation I constantly feel. But other times I wear it with pride. Lots of people feel alienated..and lots of people feel fake, people you don't even expect to feel this way. What else can you do? Keep on going to find your people..wherever they are. Well its not like something literally to be found. You wont find it and be fixed right away. Its all about the journey. Yeah its stuff like that I learned in the last few years. Can't let life pass you by waiting for some perfect oppurtunity to come by because it never will. Nothing is perfect. And theres always things you can be doing. When I was at my worst some years ago, I focused on waking up every morning to shovel the driveway. A very simple task that ended up bringing me lots of joy. 
+
+Why am I so obsessed with the hanged man? Do I want to hang myself? No. In eastern cultures its a popular way to go out, because its associated with shame. I think I do feel shame. Shame for not being able to conform. I can't conform but I expect others to do so. I don't identify with any subcultures or political movements or religions. Then there are media depictions of groups who live outside the norms, thats what the popular conciousness sees people like me as. But I don't identify with any of those groups either! Gender identity, sexual identity, ethnic identity...I don't care about these things, I've never felt confused about them. And I don't consider myself a geek or a nerd or a gamer or an intellectual or an artist, I only have tangential (and fleeting) interest in these things. Recently people identify along psychological diagnoseses - they are ADHD, or autistic, or neurodivergent. Again, its not how I see myself or people in the world. To be frank (and maybe problematic), I just don't beleive in these terms, especially when the reasearch shows how many of these things are on a spectrum and/or socially defined. SO I feel like I can't win and I'm boxed in by others expectations of me. I want to be the most special snowflake. I want to define my own group. Who wants to join my cult? The only rule is that the leader must be exiled or killed every 10 years. Because 10 years of having that much power will surely go to their head and they will have lost the plot. 
+
+
+OK ENOUGH about that. I feel much better today. I am bowing at 90 degrees towards the monitor like a Japanese businessman. I'm bowing to you! Whoever reads this. I promise the game is coming out! Pray for me, however you like, but don't pity me. 
+
+
+
+
+
+
+
+
