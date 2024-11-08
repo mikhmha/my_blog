@@ -61,8 +61,11 @@ Somedays I really resent the feeling of alienation I constantly feel. But other 
 
 Why am I so obsessed with the hanged man? Do I want to hang myself? No. In eastern cultures its a popular way to go out, because its associated with shame. I think I do feel shame. Shame for not being able to conform. I can't conform but I expect others to do so. I don't identify with any subcultures or political movements or religions. Then there are media depictions of groups who live outside the norms, thats what the popular conciousness sees people like me as. But I don't identify with any of those groups either! Gender identity, sexual identity, ethnic identity...I don't care about these things, I've never felt confused about them. And I don't consider myself a geek or a nerd or a gamer or an intellectual or an artist, I only have tangential (and fleeting) interest in these things. Recently people identify along psychological diagnoseses - they are ADHD, or autistic, or neurodivergent. Again, its not how I see myself or people in the world. To be frank (and maybe problematic), I just don't beleive in these terms, especially when the reasearch shows how many of these things are on a spectrum and/or socially defined. SO I feel like I can't win and I'm boxed in by others expectations of me. I want to be the most special snowflake. I want to define my own group. Who wants to join my cult? The only rule is that the leader must be exiled or killed every 10 years. Because 10 years of having that much power will surely go to their head and they will have lost the plot. 
 
+I think I'm going to take up swimming as a hobby. I've been meaning to do so for the past 2 years. Maybe now is the time. When I get back from vacation. I want to challenge myself and improve my cardio. 
+
 
 OK ENOUGH about that. I feel much better today. I am bowing at 90 degrees towards the monitor like a Japanese businessman. I'm bowing to you! Whoever reads this. I promise the game is coming out! Pray for me, however you like, but don't pity me. 
+
 
 
 
