@@ -75,6 +75,31 @@ When I get back from vacation I'm going to start swimming 2x a week. I'm motivat
 Today I certified the first legit draft of the game. Its at a point where I could deploy it and gain feedback from players. Theres enough "spectacle" for that. Though lots of things are still rough around the edges. I leave for vacation tommorow and I feel like I have a solid plan for what sort of work I want to get done there. No major server-side additions! I now have enough to build on whats already in place. I think I know how to add combat skills to the game. There is already a skill system in place that supports cooldowns - its how sitting + health regen works. I want to mess around with implementing shaders on weapons. I think I could do some cool particle skill effects like a flaming sword or a charge attack, etc. This sort of work is relaxing, you know what the end goal will look like, and its not this puzzle where you are trying to think about all the potential ways this might break everything else. Also once I figure out how to do this I can plan for the future update that will add wizards. There is already a cast animation in the game, and also a staff! Fireballs. You can cast fireballs. Also maybe aura skills like diablo. Draw a circle around the players feet with shaders. If I don't manage to get this combat skill stuff done, then its no big deal. I shelve it for update 0.01. 
 
 
+# 14/11/2024
+
+OK OK OK I'm on vacation now. I've been here 2 days now. So far its been good? I'm taking it easy, but to be honest I also wish I could just be working on the game. I'm at such a critical point right now and it sucks to suddenly "pause" things. But sometimes if you take a pause it can be highly beneficial, giving you a 100x return on productivity. I have so much anxiety around losing momentum. Thats the issue. Take a deep breathe and let things pass. The path to enlightenment. 
+
+On the plane I managed to pass a bunch of time just by planning out the combat skills update on pen and paper. It was super useful and hyped me up...I have a clear path to implementing this now. So here is what I came up with. Currently the game has 3 melee "combat jobs" each with different stat gain formulas. The jobs are: Soldier, Rogue, and Berserker. Other than the stat-gain and weapon choice, combat across all 3 jobs is simmilar. But now, each job will start with 2 job-specific combat skills. These skills are tied to the desired playstyle/archtype of the job. The design of the skills was based on how easy it would be to implement, they don't require any new animations or updates to world state representation. Shader effects are optional. 
+
+**Soldier** - Standard sword and shield class. In some ways they are "boring", you'll know how to play them. They wear plate armour and have the highest defence. Attack Speed - Normal. Can equip 2H weapons. Not much else to say. You play this job if you want to be a knight.
+
+Skill 1 - Power Strike, Single-target damage skill (stab)
+
+Skill 2 - Power Slash, Multi-target skill (slash). Cone-based range. 
+
+**Rogue** - The cool and edgy job, for the naruto demographic. They fight using dual weild daggers and have high accuracy + avoidability making up for their low HP.  Attack Speed - Fast, rogues have the fastest attack speed, allowing them to move up in turn priority. 
+
+Skill 1 - Double Stab, single-target damage skill, attacks the enemy 2x in one turn. 
+
+Skill 2 - NPK (nothin' personal kid), the rogue briefly dissapears and then strikes all surrounding enemies in range. On the next turn, the rogue remains invisible and dodges all incoming attacks.
+
+**Berserker** - A job with a ballsy playstyle. I've always been obssessed/fascinated with the idea of faustian bargain. Making deals with the devil. You sacrifice some part of yourself to gain some temporary power. And theres a limit before you've gone too far, usually it ends in death. Its like drugs. lol. This job wears light leather armor. They start off shirtless and their combat skills generate blood on their bodies. 
+
+Skill 1 - Sacrifice, single-target skill. The berserker takes 2-4 pts of dmg and strikes the target with a *chance* for up to 150% damage. 
+
+Skill 2 - Bloodlust, ??? (single or multi-target idk). REQUIRES a combo of 3 sacrifice to cast. The berserker strikes a target with guaranteed %150 damage and regains 3-8 pts of health. 
+
+
 
 
 
