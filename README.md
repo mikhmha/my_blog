@@ -75,6 +75,8 @@ When I get back from vacation I'm going to start swimming 2x a week. I'm motivat
 Today I certified the first legit draft of the game. Its at a point where I could deploy it and gain feedback from players. Theres enough "spectacle" for that. Though lots of things are still rough around the edges. I leave for vacation tommorow and I feel like I have a solid plan for what sort of work I want to get done there. No major server-side additions! I now have enough to build on whats already in place. I think I know how to add combat skills to the game. There is already a skill system in place that supports cooldowns - its how sitting + health regen works. I want to mess around with implementing shaders on weapons. I think I could do some cool particle skill effects like a flaming sword or a charge attack, etc. This sort of work is relaxing, you know what the end goal will look like, and its not this puzzle where you are trying to think about all the potential ways this might break everything else. Also once I figure out how to do this I can plan for the future update that will add wizards. There is already a cast animation in the game, and also a staff! Fireballs. You can cast fireballs. Also maybe aura skills like diablo. Draw a circle around the players feet with shaders. If I don't manage to get this combat skill stuff done, then its no big deal. I shelve it for update 0.01. 
 
 
+
+
 # 14/11/2024
 
 OK OK OK I'm on vacation now. I've been here 2 days now. So far its been good? I'm taking it easy, but to be honest I also wish I could just be working on the game. I'm at such a critical point right now and it sucks to suddenly "pause" things. But sometimes if you take a pause it can be highly beneficial, giving you a 100x return on productivity. I have so much anxiety around losing momentum. Thats the issue. Take a deep breathe and let things pass. The path to enlightenment. 
@@ -98,6 +100,17 @@ Skill 2 - NPK (nothin' personal kid), the rogue briefly dissapears and then stri
 Skill 1 - Sacrifice, single-target skill. The berserker takes 2-4 pts of dmg and strikes the target with a *chance* for up to 150% damage. 
 
 Skill 2 - Bloodlust, ??? (single or multi-target idk). REQUIRES a combo of 3 sacrifice to cast. The berserker strikes a target with guaranteed %150 damage and regains 3-8 pts of health. 
+
+# 29/11/2024 
+
+I'm nearing the end of my "vacation". Only a few more days to go. Overall its been pretty good. Can't say I did a whole lot, but I did something atleast. The days went by quick and I was only bored a handful of times. I managed to implement and test the combat skills update in my combat simulator module. So now I need to integrate the changes into prod. That work is underway but I'm going to complete the final part at home. I have so much to do when I get back. I really really really need to release before the end of year. Though to be honest its looking unlikely unless I cut some corners. Ahhh, I have no choice. 
+
+The server host I was planning to use has increased its US prices. Shit sucks. But its still the cheapest I can find. Oh well. 
+
+I'm saying vaccation has been pretty good, but I'm suffering my schizoid dilemma again. Because even here I feel so out of place, and I've been surrounded by family here who are all happy to see me and quite supportive. I've even made friends here who want to stay in contact - I added them on WhatsApp. But I feel nothing and I keep looking for escape routes. WTF is wrong with me??? All my problems are self-inflicted. And then I wonder why no one sticks around. because I don't stick around..duh. Or maybe its because I outlive my use to them once they see the real me. 
+
+When I get back home, its going to be my birthday in a few days. And I don't care. Its gonna be pretty uneventful. Nothing ever changes. 
+
 
 
 
