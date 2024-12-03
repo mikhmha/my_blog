@@ -111,6 +111,16 @@ I'm saying vaccation has been pretty good, but I'm suffering my schizoid dilemma
 
 When I get back home, its going to be my birthday in a few days. And I don't care. Its gonna be pretty uneventful. Nothing ever changes. 
 
+# 03/12/2024
+
+2 more days to go and then I'm back home. Today I planned out the remaining work I have to do till launch. The plan is realisitic! So realistic in fact that launch is now late December 2024. It will buggy, I know what corners to cut. I'm not happy about it, but also I am :). It is what it is~ 
+
+About my mental state, its always in flux. Some days I'm lost, other days I come to the true conclusion. You need to own who you are. And today I'm unapologetically myself. Whatever that is. These days everyone is lost. 
+
+
+
+
+
 
 
 
