@@ -113,14 +113,15 @@ When I get back home, its going to be my birthday in a few days. And I don't car
 
 # 03/12/2024
 
-2 more days to go and then I'm back home. Today I planned out the remaining work I have to do till launch. The plan is realisitic! So realistic in fact that launch is now late December 2024. It will buggy, I know what corners to cut. I'm not happy about it, but also I am :). It is what it is~ 
+2 more days to go and then I'm back home. Today I planned out the remaining work I have to do till launch. The plan is realisitic! So realistic in fact that launch is now late December 2024. It will be buggy, I know what corners to cut. I'm not happy about it, but also I am :). It is what it is~ 
 
 About my mental state, its always in flux. Some days I'm lost, other days I come to the true conclusion. You need to own who you are. And today I'm unapologetically myself. Whatever that is. These days everyone is lost. 
 
 
 
+# 07/12/2024
 
-
+Finally, I'm back home. Its good to be back. Was the vacation a net negative or positive? I think thats what I'll spend the next month figuring out. But also I already know the answer, it was a net positive! And even if thats untrue I would NEVER admit it to myself. So theres no need to spend anytime thinking more about this. It would've only been negative if I got seriously ill or injured, but I didnt. The only downside? The game is slightly more delayed - big deal. Well, there is one other (*minor*) downside. I got addicted to cigarettes again. Oh no! I'm not REALLY addicted though. I just do it because I'm a bored young man. 
 
 
 
