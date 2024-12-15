@@ -26,3 +26,11 @@ The goal at the time was to use the HTML client as a reference on what to do in 
 ![game_new_death_2024](https://github.com/user-attachments/assets/9964c2c3-0bd6-4bc0-a6c9-5aa9a5609717)
 
 So much progress. Customizable player characters + mobs with server side replication. Usable skills. Advanced Enemy AI. I can go on and on and on....
+
+
+# 15/12/2024
+
+BIG NEWS!! I've completed a bunch of UI + map work. Now I'm in the process of figuring out how to launch/deploy the game for public testing. I've been putting this part off for a while - but I've secured a route. I know how to do this! Its much easier than I thought. Last night I purchased a dedicated server for US-West. And now I have a *secret* tool that will allow me to put the server behind a reverse proxy for maximum security. No docker, nginx, server-admin required! And no changes to the server source code either. When you know what the workflow will be for deployment its a huge releif. 
+
+Another thing I got working yesterday was the CDN. It was super easy. I'm using Cloudflare R2 for this. Much more straightforward than how I used to do it using AWS + S3 Cloudfront for my job. The CDN will be used to distribute the game files and host the static site for the game. 
+By the way, I'm finding the process of setting up origin routing very easy in Cloudflare. 
