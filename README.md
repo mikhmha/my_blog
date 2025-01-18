@@ -19,3 +19,9 @@ Like with any tech book I buy, I don't plan on reading this entire thing front-t
 # 01/01/2025
 
 New Year! Unfortunately I wasn't able to launch SWARMMO in time for the end of 2024. But I'm not pressed. I don't think anyone was eagerly waiting for the release date. I'd be dissapointed and demotivated by the delays if it was due to being unable to complete gameplay features/subsystems in time. Thats not the case though, the delays are because the planned features are complete and then I realized I can get lots of mileage out of expanding them. Quick wins and all that. So the game gets delayed a bit, but its because the scope has expanded (to a reasonable level). Unreasonable scope would be things like delaying the game to implement whole new gameplay systems like building or resource collection. Don't worry, I'm not doing that. Is there a new planned release date? All I can say is - very very very very soon. I can make the game available for public play at any time, I want to get things right. 
+
+# 01/18/2025
+
+AHHHHHHH. I'm so close to launching the game. I need to finish. I know what I have to do. So why am I procrastinating? I don't know. Things were going good. Now suddenly I feel worthless. Pessimism is creeping in. The game sucks! Total piece of shit. No one will play it. The gameplay loop needs more content. I need more time, I need more money. I really need to get out of the current situation I'm in. I'm trying really hard to do that but I feel so trapped. I was told to never complain. So I won't. Breathe in. Breathe out. I really want to move somewhere new..... Life is so fun sometimes but theres so much boringness in between. But a life of only fun would become boring eventually. lol. Theres no way to win.
+
+What can I do RIGHT now to help myself? I don't want to jump off a bridge. 
