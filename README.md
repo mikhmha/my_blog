@@ -5,6 +5,8 @@
 It feels like things are crumbling fast. Today I went swimming. Its been my happy place since starting 2 months ago. But today was different. I couldn't keep my head clear and just breathe. WHATS WRONG WITH ME? I shouldn't let this one thing ruin the day for me. Right? 
 
 If things go well for you - *they* say its because you worked on yourself. When things go bad - *they* say its because you were trying to run away from your problems. Who is *they*? No clue. I could not tell you. Its a hypothetical entity to focus anger on. We are all *they* at some point or another. 
+
+
 Every person I've reached out to hang out with and just talk or chill IRL in the past few months always tells me they're busy. Then I run into them and they ask me why we never hang out. ???. No one cares. Yeah I get it, everyone is busy these days. But then they say they'll call or text back and then they don't. OK. I am just tolerated in group settings as an eccentric. I hate it here. 
 
 I feel like checking out and leaving. Yeah I could let this period of sadness pass but so what? I don't like being a clown. Thats not what I am. 
