@@ -1,5 +1,15 @@
 # my_blog
 
+# 02/21/2025 CRASHING OUT
+
+It feels like things are crumbling fast. Today I went swimming. Its been my happy place since starting 2 months ago. But today was different. I couldn't keep my head clear and just breathe. WHATS WRONG WITH ME? I shouldn't let this one thing ruin the day for me. Right? 
+
+If things go well for you - *they* say its because you worked on yourself. When things go bad - *they* say its because you were trying to run away from your problems. Who is *they*? No clue. I could not tell you. Its a hypothetical entity to focus anger on. We are all *they* at some point or another. 
+
+I feel like checking out and leaving. Yeah I could let this period of sadness pass but so what? I don't like being a clown. Thats not what I am. 
+
+I really want to sit by the ocean. 
+
 
 
 
@@ -11,7 +21,7 @@ So whats wrong? I don't know. A demon has entered my mind again. No its not a de
 
 Working on the game keeps me going. When I started working on this project 14 months ago I didn't know what to expect. Its led to some of the most fufilling days of my life, tackling challenging problems and seeing the results come to life. But they don't tell you how isolating it can all be (actually they do but I ignored it because I'm not like *them* JOKES ON ME). No one knows what you do. I don't know what I do. I would say I spend all day thinking about bullshit and then occasionally acting on it. Bullshit in, bullshit out. Developing games isn't the only *career* like this. But I see why so many solo game devs are nutcases - or end up becomming nutcases. And you do this and put all your focus into it while life passes you by. Then the party ends and you wake up. The place is empty, everyone left a while ago. No one who was there wants anything to do with you when you call them the next day. They had a good time but now they pity you. TOTAL emasculation.
 
-Once again I don't feel close to ANYONE in my life. I still don't know if its by choice or not. Why does it end up this way? I live with a bunch of strangers who have strange expectations of me that I don't care for. No one sticks around. Is it because I don't stick around? I don't stick around because they don't stick around. Chicken or the egg? Where are my people? I keep looking but they are nowhere to be found. When times are good I OWN this feeling in its entierity. But when times are bad I feel crushed by it. I don't like it here. 
+Once again I don't feel close to ANYONE in my life. I still don't know if its by choice or not. Why does it end up this way? No one sticks around. Is it because I don't stick around? I don't stick around because they don't stick around. Chicken or the egg? Where are my people? I keep looking but they are nowhere to be found. When times are good I OWN this feeling in its entierity. But when times are bad I feel crushed by it. I don't like it here. 
 
 
 
