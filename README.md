@@ -1,5 +1,23 @@
 # my_blog
 
+# 02/22/2025 PEACE??
+
+Sadness really comes and goes. Today it feels like I'm getting over it. Acceptance? All the thoughts I had the last 2 days...when they pop up today I have a counter-argument ready to go. Debating yourself. Hahahaha. They aren't *new* counter arguments, I was debating myself the last 2 days as well. Its just today the counter arguments sound more reasonable to me. But I'm not a rationalist or anything like that. Its all vibes based. PROGRESS PROGRESS PROGRESS. Something like that. I remembered..these sorts of phases lasted much longer before and I would feel more violent and angsty towards the world. I don't know when it started. When I was 17? Will it ever go away? People suffer from all sorts of more serious illness but they still see the best of things through it all. I want to be like that someday...
+
+I remembered my friend who intentionally *left* some years ago.....it took a long time to process it. I never showed strong emotions towards it in the years following. The other day they popped into my head and I could still remember their face and voice. Well my memory of their face is now fading...but I can still remember their voice so clearly. I haven't thought of them in years to be honest. I don't know why they popped into my head. But I remembered how they were a **true** outcast who really didn't give a shit about what others had to say. And how much I admired them for it. They owned who they were. 
+
+Its like every few months I re-learn the same solutions to the same problems.  I already know the supreme truth to it all. What is it? Its OK to not know what you're searching for. Its OK to not feel accepted - everyone feels that way. Give up searching for "your people* because they've been infront of you this whole time. Stop and smell the roses Blah blah blah. I know I know I know. 
+
+Why do I feel like such an outsider at times? Like a fake human? Is it a real or fake feeling? On paper I don't really deviate from any major societal or cultural norms. Can't say I identify with any fringe identities or groups either. I know some people who do and I feel like a total poser compared to them.  
+People who can stare at computer code for long periods of times tend to be freaks no matter how normal they seem. That is 100% true. The same goes for forklift operators. TOTAL FREAKS. Its the *supreme truth* NO arguments.
+
+What is the *supreme truth* anyways? I don't know. Its not a serious term dont read into it too much. The other day I rewatched the movie *Akira* after many many years. To be honest the first time I saw it, it had been so hyped to me, that it fell short of expectations. But this time around I really really liked it. I felt like I finally understood the concept of "Akira* as presented in the movie. *Akira*..its like the *supreme truth*. What is and always will be... 
+
+
+
+
+
+
 # 02/21/2025 CRASHING OUT
 
 It feels like things are crumbling fast. Today I went swimming. Its been my happy place since starting 2 months ago. But today was different. I couldn't keep my head clear and just breathe. WHATS WRONG WITH ME? I shouldn't let this one thing ruin the day for me. Right? 
