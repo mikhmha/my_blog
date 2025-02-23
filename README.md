@@ -1,5 +1,14 @@
 # my_blog
 
+# 02/23/2025 INDIFFERENCE 
+
+Today I went swimming again and had a good time. I was able to swim for so long today with out getting tired. It felt really good. I haven't felt any hestitation towards exercise in a while. No second guesses on the way to the activity. I just go. I really want to improve my cardio. When it gets warmer I might start adding running into the mix. Whatever keeps the mind off things. I have so much time these days...and if all else goes wrong atleast I can say I got into the best shape of my life during this strange period of my life. Don't take my word for it though. Everything is eaiser said then done. 
+ 
+I'm definitely not cured. I can't say I'm happy or "in the mood". I feel BLANK. BLANK BLANK BLANK. Like I'm going through the motions. I really don't care for myself. I'm passing the time and waiting for something...anything....to come sweep me off my feet and make things exciting again. 
+
+
+
+
 # 02/22/2025 PEACE??
 
 Sadness really comes and goes. Today it feels like I'm getting over it. Acceptance? All the thoughts I had the last 2 days...when they pop up today I have a counter-argument ready to go. Debating yourself. Hahahaha. They aren't *new* counter arguments, I was debating myself the last 2 days as well. Its just today the counter arguments sound more reasonable to me. But I'm not a rationalist or anything like that. Its all vibes based. PROGRESS PROGRESS PROGRESS. Something like that. I remembered..these sorts of phases lasted much longer before and I would feel more violent and angsty towards the world. I don't know when it started. When I was 17? Will it ever go away? People suffer from all sorts of more serious illness but they still see the best of things through it all. I want to be like that someday...
