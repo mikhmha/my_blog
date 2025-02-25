@@ -6,7 +6,9 @@ Life at home ain't going well. What can I do about it?
 
 I finally got around to making social media accounts for the game today. It was an exciting-ish day? I haven't been on social media in a while so I forgot how addicting the dopamine of getting engagement on posts is. I spent all day refreshing the accounts. Was it a useful spend of time? No. I should just check on this stuff once a day. Its like fishing, you cast your lure and wait.... 
 
-So far BlueSky is the best site. I've already met some cool people on it. X/Twitter has been no good. I can't seem to make any noise on there as a free account. TikTok is good but I need to spend more time making special short-form content for it. 
+So far BlueSky is the best site. I've already met some cool people on it. X/Twitter has been no good. I can't seem to make any noise on there as a free account. TikTok is good but I need to spend more time making special short-form content for it. The issue with social media these days is I can't easily figure out who is a bot. I don't want to waste my time interacting with a bot! You know all the big platforms hate the bots but also secretly love them. They drive so much engagement!
+
+
 Way back in the day I always thought this phase would be the most fun part of making a game. All the promotion and marketing. Now that I'm here....I can't say I feel that way. I'd rather get back to working on the game. Theres so much to do.
 
 Still, I'm excited to see how this pans out. I hope I can get a big bite. 
