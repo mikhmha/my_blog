@@ -1,11 +1,22 @@
 # my_blog
 
+# 02/24/2025 WHO CARES?
+
+Life at home ain't going well. What can I do about it? 
+
+I finally got around to making social media accounts for the game today. It was an exciting-ish day? I haven't been on social media in a while so I forgot how addicting the dopamine of getting engagement on posts is. I spent all day refreshing the accounts. Was it a useful spend of time? No. I should just check on this stuff once a day. Its like fishing, you cast your lure and wait.... 
+
+So far BlueSky is the best site. I've already met some cool people on it. X/Twitter has been no good. I can't seem to make any noise on there as a free account. TikTok is good but I need to spend more time making special short-form content for it. 
+Way back in the day I always thought this phase would be the most fun part of making a game. All the promotion and marketing. Now that I'm here....I can't say I feel that way. I'd rather get back to working on the game. Theres so much to do.
+
+Still, I'm excited to see how this pans out. I hope I can get a big bite. 
+
+
 # 02/23/2025 INDIFFERENCE 
 
 Today I went swimming again and had a good time. I was able to swim for so long today with out getting tired. It felt really good. I haven't felt any hestitation towards exercise in a while. No second guesses on the way to the activity. I just go. I really want to improve my cardio. When it gets warmer I might start adding running into the mix. Whatever keeps the mind off things. I have so much time these days...and if all else goes wrong atleast I can say I got into the best shape of my life during this strange period of my life. Don't take my word for it though. Everything is eaiser said then done. 
  
 I'm definitely not cured. I can't say I'm happy or "in the mood". I feel BLANK. BLANK BLANK BLANK. Like I'm going through the motions. I really don't care for myself. I'm passing the time and waiting for something...anything....to come sweep me off my feet and make things exciting again. 
-
 
 
 
