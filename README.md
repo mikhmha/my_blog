@@ -1,5 +1,17 @@
 # my_blog
 
+# 02/27/2025 NOTHING
+
+Can't tell if this social media promotion stuff is going well. Am I wasting my time? Its eating up a lot of time. 
+
+Is it translating to anything tangible? No clue till I actually make the game and kickstarter public. What am I waiting for? Some sort of critical mass of interest. Will it ever come? I don't know. What does critical mass of interest look like? No clue dude. 
+
+Why does some content get more engagement then others?  Might as well read tea leaves. I'm not a huge fan of having my face out there in public but I get more engagement out of it. Gotta play it up if you want eyeballs on you. The problem is the vids that get more views don't have much to do with the game, its just me yapping with no script. No one cares about the game on its own. 
+
+I thought about making educational content. Like maybe a video going over broad design choices to consider when making a multiplayer game. What are the economics involved..etc..But screw that. I aint no educator. Its a lot of effort to figure out how to communicate the ideas in an organized way. I'd rather work on the game. SO I'm going to make more unhinged unscripted bizzare content that will focus on.................??? hopefully the answer will come to me in a *dream*. Last night while I was out I saw lots of skunks. I wonder what the deal was. I should've made a video about that. First time I seen young skunks in my life. 
+
+I think this period of writing is coming to an end. Still not happy. Still isolated. Still BLANK. This is such a weird phase of life I'm in right now and I don't know how to process it.  I'm going swimming tommorow. Hopefully I can find some answers. 
+
 # 02/24/2025 WHO CARES?
 
 Life at home ain't going well. What can I do about it? 
