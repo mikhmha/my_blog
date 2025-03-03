@@ -1,5 +1,16 @@
 # my_blog
 
+# 03/03/2025 OK BYE
+
+I really need to start taking life seriously and stop screwing around. Its no good feeling sorry for yourself all the time. But I don't feel like myself at all recently.
+
+I can't lie. I'm really struggling right now. I dont have anyone in my life I can turn to for guidance.
+What am I doing all this for?
+The only thing thats bringing me joy is going swimming. Something about getting over my fear of deep-water and getting good at something I never thought I'd be good at is really satisfying to me. 
+
+There are some hard times ahead. I need to be strong and prepared to endure. 
+
+
 # 02/27/2025 NOTHING
 
 Can't tell if this social media promotion stuff is going well. Am I wasting my time? Its eating up a lot of time. 
