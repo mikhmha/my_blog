@@ -2,7 +2,7 @@
 
 # 07/03/2025 RENEWAL
 
-Last night I made the game servers live for US-WEST and EU-CENTRAL. I haven't promoted the launch anywhere or told anyone directly outside of some very niche spaces (aka not anywhere gamers typically would be).  Theres been some players so far though very intermittently. Again its not a gamer crowd.
+Last night I made the game servers live for US-WEST and EU-CENTRAL. I haven't promoted the launch anywhere or told anyone IRL outside of some very niche spaces (aka not anywhere gamers typically would be).  Theres been some players so far though very intermittently. Again its not a gamer crowd.
 
 The past few weeks I've been depressed, very much so. I recognize it. Its slowed down progress on the game as I've had very little motivation and lots of brain fog. I felt like I was trapped. When I look back I think the cause was due to feeling so overwhelmed, stressed, and other pressures in my life. Yesterday after making the game live I was in a very strange mood. Its no good seeing people connect to the game and barely playing it before leaving - can't blame em. But I wasn't sad. Which was strange. I thought seeing that sort of thing would break me.
 
@@ -16,7 +16,7 @@ Promoting the game is on pause for now. It just eats up too much time and I want
 I made the mistake of making the KickStarter live. Whatever. I'm not counting on the game to reach the kickstarter goal. Whatever support I get would ideally come through Patreon for now. 
 
 
-OK wish me luck! Don't think anyone reads this. But please wick me luck! I will wish you luck too.
+OK wish me luck! Don't think anyone reads this. But please wish me luck! I will wish you luck too.
 
 
 
