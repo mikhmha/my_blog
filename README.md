@@ -1,5 +1,9 @@
 # my_blog
 
+# 11/03/2025 ACES HIGH
+
+OK my motivation is starting to peak again. I took it slow for 2 days, now I'm focused on working again! Making good progress on investigating and resolving server crashes + reducing latency. I'm getting a hang of linux server admin. There are some awesome tools you can use to measure perf and latency. Linux is so good. One day I will use it as my daily driver. Today I'm going to test out a new configuration out on the US-WEST server, I think it should significantly reduce latency! So I'm excited to see the results. Afterwards the next focus will be on improving the movement and player feel. I want to make character control feel more responsive, and also give players skills to increase movement speed temporarily, etc. It should add a new dynamic to the gameplay. 
+
 # 07/03/2025 RENEWAL
 
 Last night I made the game servers live for US-WEST and EU-CENTRAL. I haven't promoted the launch anywhere or told anyone IRL outside of some very niche spaces (aka not anywhere gamers typically would be).  Theres been some players so far though very intermittently. Again its not a gamer crowd.
