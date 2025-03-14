@@ -1,5 +1,18 @@
 # my_blog
 
+# 14/03/2025 TIME
+
+This week I'm calm. I'm unbothered. Things come up and I don't worry. Its a good feeling. 
+
+Being able to make some managable impact on reducing latency was a big win. At first it felt out of my grasp. Yet another thing to learn. And latency is one of those things thats partially out of your hands. The internet is a series of tubes. So I felt lots of despair. But I tackled it. First I investigated the biggest culprit, CloudFlare tunnel. When I set it up I knew it would probably be the weakest link. And I confirmed my suspicion through measuring. Then I came to realize what CF Tunnel really does. Its a reverse proxy as a service. And its actually very good. Though it falls just a bit short for my own purposes. Blah blah blah..anyways I finally understood the purpose of reverse proxying and afterwards I was able to put that to use to remove the need for CF Tunnel (which was probably adding an extra hop). 
+
+Ok now I'm  implementing client-side prediction. I've put this off because I've only tested the game locally and its hard to measure/perceive the real client input lag in this environment. Now that I test the game with the live server, its much more noticable. And it should definitely be minimized!
+I've also put it off because thinking about client-side prediction really breaks my brain. The whole idea of the client being simulated the future while simultaneously viewing the world in the past...ugh I get confused. BUT when I consume the substance and slip into a different headspace..I seem to understand *time* much better. I draw some diagrams, think about some scenerios and it all makes sense. Anyways, client-side prediction is almost implemented. It should really improve the feel of the game. So I'm excited.
+
+I'm a bit surprised at how much traffic the game is getting. Still have yet to post it in any BIG places. I consistently seem to get some players who connect and play for a few minutes. And I've gotten some feedback. Lots to do.
+
+
+
 # 11/03/2025 ACES HIGH
 
 OK my motivation is starting to peak again. I took it slow for 2 days, now I'm focused on working again! Making good progress on investigating and resolving server crashes + reducing latency. I'm getting a hang of linux server admin. There are some awesome tools you can use to measure perf and latency. Linux is so good. One day I will use it as my daily driver. Today I'm going to test out a new configuration out on the US-WEST server, I think it should significantly reduce latency! So I'm excited to see the results. Afterwards the next focus will be on improving the movement and player feel. I want to make character control feel more responsive, and also give players skills to increase movement speed temporarily, etc. It should add a new dynamic to the gameplay. 
