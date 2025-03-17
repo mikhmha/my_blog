@@ -1,5 +1,20 @@
 # my_blog
 
+# 17/03/2025 14 DAYS
+
+14 DAYS. I have 14 days to turn things around and get the game into good shape. 14 days to give the game a strong HOOK that draws players in and makes them want more. Its a deadline. I'm checking myself. Always check yourself. And never lie to yourself. NEVER lie to yourself. 
+
+I'm on an upswing in terms of mood. I was able to endure. Now I have to execute. No hesitiation. *Hesitation is defeat* - Sword Saint Isshin. 
+
+The older I get, the more I value being an honorable person. When I was younger I didn't see the point of being honorable. Because my mind was poisoned. I thought the means justified the ends. So I thought lying, cheating, relying on luck, being unreliable, being envious, etc, was valid because "in my case its different!". 
+Why? Because I craved validation from others so I didn't see the value of my own skills. A sign of mind poisoning. 
+
+Whats the point in winning if you weren't honorable? Its a hollow victory. It leaves you empty. And whats the point in succeeding if you don't learn anything about yourself in the process? Life is all about checking yourself so you can dismantle the lies that you tell yourself. But is it possible to never lie to yourself? No. You have to lie to yourself atleast a *little* bit. I don't know where I'm going with this....
+
+14 days! Lets do it. 
+
+
+
 # 14/03/2025 TIME
 
 This week I'm calm. I'm unbothered. Things come up and I don't worry. Its a good feeling. 
