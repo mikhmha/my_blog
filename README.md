@@ -6,7 +6,7 @@
 
 I'm on an upswing in terms of mood. I was able to endure. Now I have to execute. No hesitiation. *Hesitation is defeat* - Sword Saint Isshin. 
 
-The older I get, the more I value being an honorable person. When I was younger I didn't see the point of being honorable. Because my mind was poisoned. I thought the means justified the ends. So I thought lying, cheating, relying on luck, being unreliable, being envious, etc, was valid because "in my case its different!". 
+The older I get, the more I value being an honorable person. When I was younger I didn't see the point of being honorable. Because my mind was poisoned. I thought the ends justified the means. So I thought lying, cheating, relying on luck, being unreliable, being envious, etc, was valid because "in my case its different!". 
 Why? Because I craved validation from others so I didn't see the value of my own skills. A sign of mind poisoning. 
 
 Whats the point in winning if you weren't honorable? Its a hollow victory. It leaves you empty. And whats the point in succeeding if you don't learn anything about yourself in the process? Life is all about checking yourself so you can dismantle the lies that you tell yourself. But is it possible to never lie to yourself? No. You have to lie to yourself atleast a *little* bit. I don't know where I'm going with this....
